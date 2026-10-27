@@ -1,0 +1,5 @@
+type: DevWorkspaceManifest@v1
+scope: repo
+install:
+  pypi:
+    - lypto
